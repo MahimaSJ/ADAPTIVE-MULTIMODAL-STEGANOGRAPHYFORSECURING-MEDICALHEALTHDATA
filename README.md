@@ -24,8 +24,6 @@ proposed system achieves approximately 95% data recovery while maintaining high
 imperceptibility and robustness against common distortions, making it a secure and
 efficient solution for safeguarding healthcare information.
 
-This project presents an **Adaptive Multimodal Communication System (AMCS)** that securely protects heterogeneous medical data using multiple steganography techniques. The framework intelligently selects suitable carrier media based on the type and size of the secret data, improving security, embedding efficiency, and resistance to steganalysis.
-
 The system supports secure embedding of:
 - Text into Audio
 - Text into Video
